@@ -18,4 +18,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitx94/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## String
+|  |
+| ------- |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/harshitx94/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 <!---LeetCode Topics End-->
