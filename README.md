@@ -12,6 +12,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/harshitx94/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/harshitx94/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/harshitx94/Leetcode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,9 +24,11 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/harshitx94/Leetcode/tree/master/0242-valid-anagram) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/harshitx94/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/harshitx94/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/harshitx94/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
